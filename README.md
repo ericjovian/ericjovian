@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ericjovian
-- 👀 I’m interested in ComputerScience(Cyber Security)
-- 🌱 I’m currently learning Cyber Security
+- 👀 I’m interested in Computer Science(Software Engineering/Cyber Security)
 - 💞️ I’m looking for anything tbh.
 - 📫 How to reach me ericjovian00@gmail.com
 
